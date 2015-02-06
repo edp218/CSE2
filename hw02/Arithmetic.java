@@ -81,7 +81,6 @@ public class Arithmetic{
         System.out.println("The total sales tax for the box of envelope is "+totalEnvelopeTax$+"");
         System.out.println("The total cost of the box of envelopes after tax is "+totalEnvelopeCost2$+"");
         
-        
         System.out.println("The total cost of all items before tax is "+totalBeforeTax$+"");
         System.out.println("The total sales tax of all items is "+totalTax$+"");
         System.out.println("The total cost of all items after tax is "+totalAfterTax$+"");
