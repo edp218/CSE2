@@ -17,6 +17,13 @@ public class Root {
         double SixthGuess;
         Guess= (x/3);
         SecondGuess= (2*Guess*Guess*Guess+x)/(3*Guess*Guess);
+        ThirdGuess= (2*SecondGuess*SecondGuess*SecondGuess+x)/(3*SecondGuess*SecondGuess);
+        FourthGuess= (2*ThirdGuess*ThirdGuess*ThirdGuess+x)/(3*ThirdGuess*ThirdGuess);
+        FifthGuess= (2*FourthGuess*FourthGuess*FourthGuess+x)/(3*FourthGuess*FourthGuess);
+        SixthGuess= (2*FifthGuess*FifthGuess*FifthGuess+x)/(3*FifthGuess*FifthGuess);
+        System.out.println("The crude estimate of the cube root " +Guess);
+        System.out.println("The cube root of x is " + SixthGuess);
+        System.out.println("The value of the crude estimate cubed is " + SixthGuess*SixthGuess*SixthGuess);
         
     }
 }
