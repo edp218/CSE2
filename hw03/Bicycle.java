@@ -1,7 +1,9 @@
 //Edgar Palaquibay
 //02/09/2015
 //hw03
-//the purpose of this program is 
+//the purpose of this program is to manipulate the data given to
+//find the total distance traveled based on the diameter and other
+//basic data
 
 
 import java.util.Scanner;

@@ -1,9 +1,9 @@
 //edgar palaquibay
-//02/11/2015
+//02/11/2015   
 //hw03
 //part 3
 //the purpose is to use doubles so the program can read the digits to the
-//right of the decimal point
+//right of the decimal point 
 import java.util.Scanner;
 
 public class FourDigits {
