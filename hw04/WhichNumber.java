@@ -1,7 +1,9 @@
 //Edgar Palaquibay
 //02/17/2015
 //hw04
-//
+//the purpose of this homework is to use comparison operators, boolean
+//expressions and selection statements
+
 import java.util.Scanner;
 public class WhichNumber{
     public static void main(String[ ] args) {
